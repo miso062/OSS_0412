@@ -1,3 +1,4 @@
 V1 : This is some content for merging
 V2-A : content to append
 V2 : totally different content to merge later
+V3 : The most direct way to resolve a merge conflict is to ddit the conflicted file
